@@ -5,6 +5,7 @@
 
 #import "___FILEBASENAMEASIDENTIFIER___.h"
 
+
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
 #pragma mark - Creating a singleton instance

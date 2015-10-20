@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 
 TEMPLATES_DIR="$HOME/Library/Developer/Xcode/Templates"
 FILE_TEMPLATES_DIR="$TEMPLATES_DIR/File Templates"
